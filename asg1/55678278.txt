@@ -1,4 +1,4 @@
-Created by Yuen Hei YEUNG (55678278)
+Created by (55678278)
 
 Compiling command:
 	$ g++ -std=c++11 55678278.cpp -o 55678278
