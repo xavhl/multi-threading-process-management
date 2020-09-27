@@ -1,0 +1,28 @@
+BP
+- prompt line
+	$ ./BP
+	BP >
+- execute
+	BP >bg [file_name] [arg list]
+	fork(), execvp()
+- display
+	BP >bglist
+- stop
+	BP >bgstop [pid]
+		stopped
+	automatically restarted
+- kill
+	BP >bgkill [pid]
+		killed
+	automatically restarted
+- exit
+	BP >exit
+		killed
+
+others
+- completion
+	completed
+- redundant
+	already stopped
+	already terminated
+	does not exist

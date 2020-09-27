@@ -1,0 +1,5 @@
+Command:
+$ g++ generate_frame_vector.cpp 55678278.cpp -lpthread -o 55678278
+
+Notes:
+Maximum interval is 3, will fail if sometimes the quantizers thread start before the camera thread
