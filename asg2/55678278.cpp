@@ -1,5 +1,5 @@
 //CS3103 Programming Assignment 2
-//Created by YEUNG Yuen Hei 55678278 yhyeung23
+//Created by 55678278
 
 #include <iostream>
 #include <cstdlib>
